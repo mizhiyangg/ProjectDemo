@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml:3:5-50
+		INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\ZHBJ\library\AndroidManifest.xml
